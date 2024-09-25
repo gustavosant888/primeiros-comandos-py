@@ -16,4 +16,4 @@ if media >=6:
 elif media <- 4:
     print("reprovado")
 else:
-    print("recuperação")
+    print("recuperação") 
